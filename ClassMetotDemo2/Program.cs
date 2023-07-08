@@ -8,12 +8,12 @@ musteri1.Surname = "Bağlars";
 Musteri musteri2 = new Musteri();
 musteri2.Id = 2;
 musteri2.Name = "Murat";
-musteri2.Surname = "Bağlars";
+musteri2.Surname = "Başaran";
 
 Musteri musteri3 = new Musteri();
 musteri3.Id = 3;
 musteri3.Name = "Engin";
-musteri3.Surname = "Demiroğ";
+musteri3.Surname = "Demir";
 
 MusteriManager musteriManager = new MusteriManager();
 
